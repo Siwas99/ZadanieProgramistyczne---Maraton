@@ -1,0 +1,8 @@
+﻿  funkcje.cpp
+  main.cpp
+C:\Users\wozni\source\repos\ZadanieProgramistyczne---Maraton\Maraton\Maraton\struktury.h(6,28): warning C4091: "typedef ": zignorowano na lewo od "ListaWynikow" podczas gdy brak deklaracji zmiennej
+C:\Users\wozni\source\repos\ZadanieProgramistyczne---Maraton\Maraton\Maraton\struktury.h(6,28): warning C4091: "typedef ": zignorowano na lewo od "ListaWynikow" podczas gdy brak deklaracji zmiennej
+  debug_new.cpp
+  Generowanie kodu...
+C:\Users\wozni\source\repos\ZadanieProgramistyczne---Maraton\Maraton\Maraton\main.cpp(18,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Maraton.vcxproj -> C:\Users\wozni\source\repos\ZadanieProgramistyczne---Maraton\Maraton\Debug\Maraton.exe
